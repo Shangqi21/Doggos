@@ -1,0 +1,1 @@
+alert("Hello be careful the following content may be controverstial please be 3 years or older to view this content");
